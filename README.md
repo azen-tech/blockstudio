@@ -49,10 +49,6 @@ A blockchain-based decentralized music streaming platform to connect music enthu
 │   │   │   └── SongCard.js
 │   │   └── index.js
 │   └── truffle-config.js
-├── Documents
-│   ├── Literature_Review.pdf
-│   ├── Presentation.pdf
-│   └── Progress_Report.pdf
 └── README.md
 ```
   
